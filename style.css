@@ -1,0 +1,108 @@
+/* Agregamos estilos al body*/
+body{
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    font-size: 30px;
+    background-image: url(https://f4.bcbits.com/img/a1497535352_5.jpg);
+    }
+    p{
+     text-align: justify;
+     font-family:"DM Serif Text", serif;
+     font-size: 20px;
+     background-color: #f7dc6f;
+     border: 2px dotted;
+    }
+    /* Agrega color a listas*/
+    ul{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     background-color: #7DDA58;
+    }
+    /* Agregar width y height*/
+    img{
+     width: 500px;
+     height: 500px;
+     padding: 10px;
+     margin: 10px;
+    }
+
+    /* Cambiarle tamaños a mi imagen por class*/
+     /* border radius para hacer redondas imagenes etc*/
+    .Imagen1{
+     width: 300px;
+     height: 300px;
+     border-radius: 800px;
+    }
+    .Imagen2{
+    width: 300px;
+    height: 300px;
+    border-radius: 800px;
+    }
+    .Imagen3{
+    width: 300px;
+    height: 300px;
+    border-radius: 800px;
+    }
+    .Imagen4{
+    width: 300px;
+    height: 300px;
+    border-radius: 800px;
+    }
+    /*Iconos cambio de tamaño por class*/
+   .Imagen5{
+    width: 100px;
+    height: 100px;
+    padding: 4px;
+    margin: 4px;
+    border-radius: 100px;
+   }
+   .Imagen6{
+    width: 100px;
+    height: 100px;
+    padding: 4px;
+    margin: 4px;
+    border-radius: 100px;
+   }
+   .Imagen7{
+    width: 100px;
+    height: 100px;
+    padding: 4px;
+    margin: 4px;
+    border-radius: 100px;
+   }
+   .Imagen8{
+    width: 100px;
+    height: 100px;
+    padding: 4px;
+    margin: 4px;
+    border-radius: 100px;
+   }
+   .Imagen9{
+    width: 100px;
+    height: 100px;
+    padding: 4px;
+    margin: 4px;
+    border-radius: 100px;
+    }
+    .Imagen10{
+    width: 100px;
+    height: 100px;
+    padding: 4px;
+    margin: 4px;
+    border-radius: 100px;
+   }
+    /*Color de fondo*/
+    div{
+     background-color: #E03786;
+    }
+    /* Atributo ID se manda allamar con un # */
+    #Parrafo-1{
+     background-color: #f39c12;
+    }
+    #Parrafo-2{
+        background-color: #f39c12;
+       }
+       #Parrafo-3{
+        background-color: #f39c12;
+       }
+
+    
+   
